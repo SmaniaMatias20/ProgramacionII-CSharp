@@ -1,0 +1,16 @@
+Clase StringBuilder
+
+StringBuilder sb = new StringBuilder();
+sb.Append("Hola ");
+sb.Append("Mundo ");
+sb.AppendLine("¿Como estas?");
+
+Console.WriteLine(sb.ToString());   
+
+-----------------------------------------
+
+//Modificadores de acesso.
+//Internal: Solamente en el mismo Proyecto.
+//Private: Solamente dentro de la clase.
+//Public: Cualquier proyecto de la solucion.
+//Protected: 

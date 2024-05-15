@@ -1,0 +1,6 @@
+C:\Users\Smania Matias\Desktop\UTN\Segundo Cuatrimestre\Prog-Labo II\Practica\Segunda.Solucion\Entidades_04\obj\Debug\Entidades_04.csproj.AssemblyReference.cache
+C:\Users\Smania Matias\Desktop\UTN\Segundo Cuatrimestre\Prog-Labo II\Practica\Segunda.Solucion\Entidades_04\obj\Debug\Entidades_04.csproj.CoreCompileInputs.cache
+C:\Users\Smania Matias\Desktop\UTN\Segundo Cuatrimestre\Prog-Labo II\Practica\Segunda.Solucion\Entidades_04\bin\Debug\Entidades_04.dll
+C:\Users\Smania Matias\Desktop\UTN\Segundo Cuatrimestre\Prog-Labo II\Practica\Segunda.Solucion\Entidades_04\bin\Debug\Entidades_04.pdb
+C:\Users\Smania Matias\Desktop\UTN\Segundo Cuatrimestre\Prog-Labo II\Practica\Segunda.Solucion\Entidades_04\obj\Debug\Entidades_04.dll
+C:\Users\Smania Matias\Desktop\UTN\Segundo Cuatrimestre\Prog-Labo II\Practica\Segunda.Solucion\Entidades_04\obj\Debug\Entidades_04.pdb

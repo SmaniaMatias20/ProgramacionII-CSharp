@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACAB637-8D61-42F7-BF2B-331D2B776DC9}|EstadisticaDeportiva\\EstadisticaDeportiva.csproj|c:\\users\\smania matias\\desktop\\utn\\segundo cuatrimestre\\prog-labo ii\\practica\\quinta.solucion\\estadisticadeportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACAB637-8D61-42F7-BF2B-331D2B776DC9}|EstadisticaDeportiva\\EstadisticaDeportiva.csproj|solutionrelative:estadisticadeportiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93608-EC2F-467F-A24D-D8D3EE3978C7}|Entidades_03\\Entidades_03.csproj|C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\entidades_03\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93608-EC2F-467F-A24D-D8D3EE3978C7}|Entidades_03\\Entidades_03.csproj|solutionrelative:entidades_03\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93608-EC2F-467F-A24D-D8D3EE3978C7}|Entidades_03\\Entidades_03.csproj|C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\entidades_03\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93608-EC2F-467F-A24D-D8D3EE3978C7}|Entidades_03\\Entidades_03.csproj|solutionrelative:entidades_03\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\Entidades_03\\Equipo.cs",
+              "RelativeDocumentMoniker": "Entidades_03\\Equipo.cs",
+              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\Entidades_03\\Equipo.cs",
+              "RelativeToolTip": "Entidades_03\\Equipo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:17:21.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\Entidades_03\\Jugador.cs",
+              "RelativeDocumentMoniker": "Entidades_03\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\Entidades_03\\Jugador.cs",
+              "RelativeToolTip": "Entidades_03\\Jugador.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:17:19.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\EstadisticaDeportiva\\Program.cs",
+              "RelativeDocumentMoniker": "EstadisticaDeportiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\UTN\\Segundo Cuatrimestre\\Prog-Labo II\\Practica\\Quinta.Solucion\\EstadisticaDeportiva\\Program.cs",
+              "RelativeToolTip": "EstadisticaDeportiva\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:17:17.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
